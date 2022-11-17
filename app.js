@@ -13,5 +13,4 @@ function selectDrinks(){
 }
 document.getElementById(`drinks`).addEventListener(`click`, selectDrinks)
 
-
 // location.href = `selection.html`
